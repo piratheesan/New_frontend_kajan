@@ -7,8 +7,6 @@ import Defect from '../src/assiment/detable.jsx';
 import Project from '../src/assiment/protable.jsx';
 import Employee from '../src/assiment/emptable.jsx';
 import Back from '../src/assiment/addview.jsx'
-// import Back2 from '../src/assiment/addview.jsx'
-// import Back3 from '../src/assiment/addview.jsx'
 
 
 import { BrowserRouter , Switch, Route } from "react-router-dom";
